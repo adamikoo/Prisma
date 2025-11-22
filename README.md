@@ -2,7 +2,8 @@
 
 <!-- Replace with your actual logo URL or local path like ./public/favicon.png -->
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/150/2563eb/FFFFFF%3Ftext%3DLumina" alt="logo" width="100" height="auto" />
+<img width="500" height="500" alt="favicon" src="https://github.com/user-attachments/assets/91dd580c-1ab7-4c6a-ad5e-f8d883d02f49" />
+
 
 ☁️ Lumina Notes
 
@@ -12,33 +13,30 @@ The intelligent, cloud-synced note-taking application built for the modern web.
 
 <p>
 <a href="https://reactjs.org/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="react"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react"/>
 </a>
 <a href="https://vitejs.dev/">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="vite"/>
 </a>
 <a href="https://tailwindcss.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="tailwind"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="tailwind"/>
 </a>
 <a href="https://firebase.google.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="firebase"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
 </a>
 <a href="https://deepmind.google/technologies/gemini/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google%2520Gemini-8E75B2%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" alt="gemini"/>
+<img src="https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=DeepMind&logoColor=FFFFFF" alt="gemini"/>
 </a>
 </p>
 
 <!-- Quick Links -->
 
 <p>
-<a href="https://www.google.com/search?q=https://lumina-notes.web.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Demo-2563eb%3Fstyle%3Dflat%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="View Demo" />
+<a href="https://noteapp-adamikoo.web.app/">
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="App Link" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/adamikoo/Lumina/issues">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Report_Bug-d97706%3Fstyle%3Dflat%26logo%3Dgithub%26logoColor%3Dwhite" alt="Report Bug" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/adamikoo/Lumina/issues">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Request_Feature-10b981%3Fstyle%3Dflat%26logo%3Dgithub%26logoColor%3Dwhite" alt="Request Feature" />
+<a href="buymeacoffee.com/adamikoo">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 </p>
 </div>
@@ -163,15 +161,14 @@ npm run dev
 📸 Screenshots
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400%3Ftext%3DLumina%2BDashboard" alt="Dashboard" width="800" />
+<img width="800"  alt="Dashboard" src="https://github.com/user-attachments/assets/a4c0818b-671e-43b8-920b-0310d75e5252" />
 
 
 
 
 
 
-
-<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400%3Ftext%3DDark%2BMode%2BEditor" alt="Editor" width="800" />
+<img width="800" alt="Editor" src="https://github.com/user-attachments/assets/06d017e6-1ae1-488d-b98a-bc397edf33be" />
 </div>
 
 🛠 Tech Stack
