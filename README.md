@@ -1,7 +1,4 @@
-☁️ Lumina
-
-<img width="1866" height="991" alt="image" src="https://github.com/user-attachments/assets/cff5945a-3f65-4e4e-b280-992a4542a401" />
-
+☁️ Lumina https://noteapp-adamikoo.web.app/
 
 <div align="center">
 
