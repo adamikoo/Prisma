@@ -1,74 +1,134 @@
-☁️ Lumina https://noteapp-adamikoo.web.app/
-
 <div align="center">
+
+<!-- Replace with your actual logo URL or local path like ./public/favicon.png -->
+
+<img src="https://www.google.com/search?q=https://via.placeholder.com/150/2563eb/FFFFFF%3Ftext%3DLumina" alt="logo" width="100" height="auto" />
+
+☁️ Lumina Notes
 
 The intelligent, cloud-synced note-taking application built for the modern web.
 
-View Demo · Report Bug · Request Feature
+<!-- Badges -->
 
+<p>
+<a href="https://reactjs.org/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="react"/>
+</a>
+<a href="https://vitejs.dev/">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="vite"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="tailwind"/>
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="firebase"/>
+</a>
+<a href="https://deepmind.google/technologies/gemini/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google%2520Gemini-8E75B2%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" alt="gemini"/>
+</a>
+</p>
+
+<!-- Quick Links -->
+
+<p>
+<a href="https://www.google.com/search?q=https://lumina-notes.web.app">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Demo-2563eb%3Fstyle%3Dflat%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="View Demo" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/adamikoo/Lumina/issues">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Report_Bug-d97706%3Fstyle%3Dflat%26logo%3Dgithub%26logoColor%3Dwhite" alt="Report Bug" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/adamikoo/Lumina/issues">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Request_Feature-10b981%3Fstyle%3Dflat%26logo%3Dgithub%26logoColor%3Dwhite" alt="Request Feature" />
+</a>
+</p>
 </div>
+
+<br />
+
+<!-- Table of Contents -->
+
+<details>
+<summary>Table of Contents</summary>
+<ol>
+<li><a href="#-features">Features</a></li>
+<li><a href="#-repository-structure">Repository Structure</a></li>
+<li><a href="#-getting-started">Getting Started</a></li>
+<li><a href="#-tech-stack">Tech Stack</a></li>
+<li><a href="#-contributing">Contributing</a></li>
+<li><a href="#-license">License</a></li>
+</ol>
+</details>
 
 ✨ Features
 
-Lumina isn't just another notes app. It's a full productivity suite equipped with AI, real-time collaboration, and rich media support.
+Lumina redefines the note-taking experience by combining a rich text editor with powerful AI tools and real-time collaboration.
 
-🧠 AI-Powered Productivity
+Feature
 
-Smart Summarization: Instantly condense long notes into bullet points using Google Gemini.
+Description
 
-Grammar Polish: Fix typos and improve tone with a single click.
+🧠 AI Intelligence
 
-AI Writer: Stuck? Let the AI continue writing your sentences for you.
+Powered by Google Gemini. Summarize notes, fix grammar, or let the AI auto-complete your sentences.
 
-🤝 Collaboration & Sharing
+☁️ Cloud Sync
 
-Real-time Sync: Changes update instantly across all devices.
+Built on Firestore. Notes update instantly across all devices in real-time.
 
-Granular Permissions: Share notes via email with Viewer or Editor roles.
+🎨 Rich Media
 
-Live Updates: See edits from collaborators as they happen.
+Full WYSIWYG editor. Support for images (resize/move), sketching canvas, and voice-to-text.
 
-🎨 Rich Media Editor
+🤝 Collaboration
 
-Formatting: Bold, Italic, Underline, Lists, Alignments, and more.
+Share notes via email. Assign Viewer or Editor roles for granular permission control.
 
-Image Support: Upload local images, resize them, and align them (Left/Center/Right).
+🔐 Secure Auth
 
-Sketching: Built-in canvas to draw diagrams or handwritten notes.
+Complete authentication system supporting Google Sign-In, Email/Password, and Guest access.
 
-Voice Memos: Speech-to-text integration for quick dictation.
+📦 Power Tools
 
-Custom Themes: Color-code your notes with a preset palette or custom HEX picker.
+Import from Google Keep (.zip), export to .txt/Email, and full JSON backups.
 
-🛠 Power User Tools
+📂 Repository Structure
 
-Google Keep Import: Seamlessly import your .zip Takeout data (notes, labels, colors).
+└── Lumina/
+    ├── public/
+    │   ├── favicon.png
+    │   └── manifest.json
+    ├── src/
+    │   ├── utils/
+    │   │   └── keepImport.js
+    │   ├── App.jsx
+    │   ├── firebase.js
+    │   ├── index.css
+    │   └── main.jsx
+    ├── .env
+    ├── index.html
+    ├── package.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    └── vite.config.js
 
-Data Export: Download notes as .txt, copy to clipboard, or email them directly.
-
-Data Backup: Export your entire database to a JSON file.
-
-Statistics: Real-time word, character, and reading time counters.
-
-Dark Mode: Fully responsive UI with a beautiful dark theme.
 
 🚀 Getting Started
 
-Follow these steps to run Lumina locally on your machine.
+Follow these steps to get a local copy up and running.
 
 Prerequisites
 
 Node.js (v16 or higher)
 
-npm or yarn
+npm
 
-A Firebase Project
+A Firebase Project (Free tier is sufficient)
 
-A Google AI (Gemini) API Key
+A Google AI Studio API Key
 
 Installation
 
-Clone the repo
+Clone the repository
 
 git clone [https://github.com/adamikoo/Lumina.git](https://github.com/adamikoo/Lumina.git)
 cd Lumina
@@ -79,8 +139,8 @@ Install dependencies
 npm install
 
 
-Configure Environment Variables
-Create a .env file in the root directory:
+Configure Environment
+Create a .env file in the root directory and add your keys:
 
 VITE_GEMINI_API_KEY=your_google_gemini_api_key
 
@@ -89,50 +149,48 @@ Setup Firebase
 
 Create a project at console.firebase.google.com.
 
-Enable Authentication (Email/Password, Google, Anonymous).
+Enable Authentication (Email, Google, Anonymous).
 
 Enable Firestore Database.
 
-Copy your firebase configuration keys into src/firebase.js.
+Create src/firebase.js and paste your config object.
 
-Run the development server
+Start the App
 
 npm run dev
 
 
 📸 Screenshots
 
-Dashboard
+<div align="center">
+<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400%3Ftext%3DLumina%2BDashboard" alt="Dashboard" width="800" />
 
-Rich Editor
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/400x200%3Ftext%3DDashboard%2BView" width="400" />
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/400x200%3Ftext%3DEditor%2BView" width="400" />
 
-Dark Mode
 
-Mobile View
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/400x200%3Ftext%3DDark%2BMode" width="400" />
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/400x200%3Ftext%3DMobile%2BResponsive" width="400" />
+<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400%3Ftext%3DDark%2BMode%2BEditor" alt="Editor" width="800" />
+</div>
 
 🛠 Tech Stack
 
-Frontend: React.js, Vite
+Framework: React + Vite
 
-Styling: Tailwind CSS, Lucide React (Icons)
+Styling: Tailwind CSS
 
-Backend: Firebase (Auth, Firestore)
+Icons: Lucide React
 
-AI: Google Generative AI SDK (Gemini 1.5 Flash)
+Backend: Firebase (Auth & Firestore)
 
-Utilities: JSZip (Importing), React DOM Portals (Modals)
+AI Model: Google Gemini 1.5 Flash
+
+Utilities: jszip (Imports), react-dom (Portals)
 
 🤝 Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
 
