@@ -87,26 +87,6 @@ Complete authentication system supporting Google Sign-In, Email/Password, and Gu
 
 Import from Google Keep (.zip), export to .txt/Email, and full JSON backups.
 
-📂 Repository Structure
-
-    └── Lumina/
-        ├── public/
-        │   ├── favicon.png
-        │   └── manifest.json
-        ├── src/
-        │   ├── utils/
-        │   │   └── keepImport.js
-        │   ├── App.jsx
-        │   ├── firebase.js
-        │   ├── index.css
-        │   └── main.jsx
-        ├── .env
-        ├── index.html
-        ├── package.json
-        ├── postcss.config.js
-        ├── tailwind.config.js
-        └── vite.config.js
-
 
 🚀 Getting Started
 
