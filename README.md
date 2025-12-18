@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 </p>
- <img width="1200" height="1200" alt="favicon" src="https://github.com/user-attachments/assets/818379eb-2667-4a5e-803a-4d4db8d7ea2d" />
+ <img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/818379eb-2667-4a5e-803a-4d4db8d7ea2d" />
 
-☁️ Lumina Notes
+☁️ Prisma Notes
 
 The intelligent, cloud-synced note-taking application built for the modern web.
 
@@ -56,7 +56,7 @@ The intelligent, cloud-synced note-taking application built for the modern web.
 
 ✨ Features
 
-Lumina redefines the note-taking experience by combining a rich text editor with powerful AI tools and real-time collaboration.
+Prisma redefines the note-taking experience by combining a rich text editor with powerful AI tools and real-time collaboration.
 
 Feature
 
@@ -105,8 +105,8 @@ Installation
 
 Clone the repository
 
-git clone [https://github.com/adamikoo/Lumina.git](https://github.com/adamikoo/Lumina.git)
-cd Lumina
+git clone [https://github.com/adamikoo/Prisma.git](https://github.com/adamikoo/Prisma.git)
+cd Prisma
 
 
 Install dependencies
