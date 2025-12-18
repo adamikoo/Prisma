@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<a href="https://noteapp-adamikoo.web.app/">
+<a href="https://prismanotes.space/">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="App Link" />
 </a>
 <a href="https://buymeacoffee.com/adamikoo">
