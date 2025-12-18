@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 </p>
-
-<img width="150" height="150" alt="favicon" src="https://github.com/user-attachments/assets/63a8a291-68ae-4a0c-9a59-3fb927b4af71" />
+ <img width="1200" height="1200" alt="favicon" src="https://github.com/user-attachments/assets/818379eb-2667-4a5e-803a-4d4db8d7ea2d" />
 
 ☁️ Lumina Notes
 
