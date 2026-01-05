@@ -47,9 +47,7 @@ The intelligent, cloud-synced note-taking application built for the modern web.
 <ol>
 <li><a href="#-features">Features</a></li>
 <li><a href="#-repository-structure">Repository Structure</a></li>
-<li><a href="#-getting-started">Getting Started</a></li>
 <li><a href="#-tech-stack">Tech Stack</a></li>
-<li><a href="#-contributing">Contributing</a></li>
 <li><a href="#-license">License</a></li>
 </ol>
 </details>
@@ -87,58 +85,10 @@ Complete authentication system supporting Google Sign-In, Email/Password, and Gu
 Import from Google Keep (.zip), export to .txt/Email, and full JSON backups.
 
 
-🚀 Getting Started
-
-Follow these steps to get a local copy up and running.
-
-Prerequisites
-
-Node.js (v16 or higher)
-
-npm
-
-A Firebase Project (Free tier is sufficient)
-
-A Google AI Studio API Key
-
-Installation
-
-Clone the repository
-
-git clone [https://github.com/adamikoo/Prisma.git](https://github.com/adamikoo/Prisma.git)
-cd Prisma
-
-
-Install dependencies
-
-npm install
-
-
-Configure Environment
-Create a .env file in the root directory and add your keys:
-
-VITE_GEMINI_API_KEY=your_google_gemini_api_key
-
-
-Setup Firebase
-
-Create a project at console.firebase.google.com.
-
-Enable Authentication (Email, Google, Anonymous).
-
-Enable Firestore Database.
-
-Create src/firebase.js and paste your config object.
-
-Start the App
-
-npm run dev
-
-
 📸 Screenshots
 
 <div align="center">
-<img width="800" alt="Dashboard" src="https://github.com/user-attachments/assets/a4c0818b-671e-43b8-920b-0310d75e5252" />
+<img width="800" alt="Dashboard" src="https://github.com/user-attachments/assets/2c8e89f1-77e8-4ed0-93a4-8488df4b2960" />
 
 
 
@@ -146,7 +96,7 @@ npm run dev
 
 
 
-<img width="800" alt="Editor" src="https://github.com/user-attachments/assets/06d017e6-1ae1-488d-b98a-bc397edf33be" />
+<img width="800" alt="Editor" src="https://github.com/user-attachments/assets/b2b1838a-fe51-486f-b112-e0bc3e31ddd6" />
 </div>
 
 🛠 Tech Stack
@@ -162,20 +112,6 @@ Backend: Firebase (Auth & Firestore)
 AI Model: Google Gemini 1.5 Flash
 
 Utilities: jszip (Imports), react-dom (Portals)
-
-🤝 Contributing
-
-Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
 
 📄 License
 
