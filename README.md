@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 </p>
- <img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/818379eb-2667-4a5e-803a-4d4db8d7ea2d" />
+ <img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/818379eb-2667-4a5e-803a-4d4db8d7ea2d" href="https://prismanotes.space/"/>
 
 ☁️ Prisma Notes
 
